@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourajit-Maity
 - 👀 I’m interested in Python,Django,Laravel and Node
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently working on Deep Learning
 - 💞️ I’m looking to collaborate on any Computer Vision related project
 - 📫 Reach me at sourajitm8@gmail.com
 
